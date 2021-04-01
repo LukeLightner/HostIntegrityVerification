@@ -19,7 +19,8 @@ python3 hash.py
 
 On the first run, messages will appear notifying user that baseline is being established. 
 
-![](firstRun.png)
+![](https://github.com/LukeLightner/HostIntegrityVerification/FirstRun.PNG)
 
+On runs aftet the initial, the program will output changed or new files and their paths. 
 
-![](hash output.png)
+![](hash output.PNG)
