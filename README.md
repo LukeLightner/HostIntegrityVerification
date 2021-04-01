@@ -19,6 +19,7 @@ python3 hash.py
 
 On the first run, messages will appear notifying user that baseline is being established. 
 On runs after the initial, the program will output changed or new files and their paths. 
+See pngs for expected output and lastHash.txt.gz for expected output to file.
 
 ## Dependecies 
 
